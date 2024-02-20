@@ -1,2 +1,2 @@
 # semantic-segmentation
-Computer Vision - Project 3
+[See also on HuggingFace](https://huggingface.co/spaces/dromaniv/SegMeister)https://huggingface.co/spaces/dromaniv/SegMeister
